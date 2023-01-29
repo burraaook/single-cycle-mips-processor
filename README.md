@@ -1,5 +1,4 @@
 ## Testing  
------------
 1- Open QAR  
 2- Analysis and Synthesis  
 3- Run RTL Simulation  
@@ -7,7 +6,6 @@
 5- Test Benches can be runnable.  
   
 ## Adding New Tests
---------------
 1- Adding with assembly code:  
    - Use assembler.py to generate machine code from assembly code, then move the generated .mem file to the "simulation/modelsim" directory in the restored directory, then initalize it in the test bench.  
 
