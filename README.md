@@ -19,23 +19,24 @@
    - Add the .mem file directly to the "simulation/modelsim" directory in the restored directory similar to the other test benches.  
 
 
-## Some of the Test Results
+## Example Test
 
-### Test 1
-#### Assembly Code and Generated Machine Code:
+### Assembly Code and Generated Machine Code:
 ![test1](images/test1.jpg)
   
-#### Registers:
+### Registers:
 ![test1](images/registers1.jpg)
   
-#### Data Memory:
+### Data Memory:
 ![test1](images/memory1.jpg)
   
-#### Waveform:
+### Waveforms:
 ![test1](images/ww1_1.jpg)  
 ![test1](images/ww1_2.jpg)
 ![test1](images/ww1_3.jpg)
 ![test1](images/ww1_4.jpg)
 ![test1](images/ww1_5.jpg)
-![test1](images/ww1_6.jpg)
+![test1](images/ww1_6.jpg)  
+
+- Other tests and results can be found in the documentation.
 
