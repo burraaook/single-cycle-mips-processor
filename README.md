@@ -3,6 +3,7 @@
 - Instructions are 32 bits long, register contents are 16 bits long.  
 - Data memory holds 2^16 words of data.  
 - Instruction memory holds 1024 instructions.  
+- Detailed explanation of the design can be found in the doc file.  
 
 ## Testing  
 1- Open QAR  
