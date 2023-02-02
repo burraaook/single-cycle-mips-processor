@@ -1,3 +1,9 @@
+# General  
+- Single Cycle MIPS 16-bit Processor designed in Verilog HDL.  
+- Instructions are 32 bits long, register contents are 16 bits long.  
+- Data memory holds 2^16 words of data.  
+- Instruction memory holds 1024 instructions.  
+
 ## Testing  
 1- Open QAR  
 2- Analysis and Synthesis  
@@ -11,3 +17,25 @@
 
 2- Adding with machine code:  
    - Add the .mem file directly to the "simulation/modelsim" directory in the restored directory similar to the other test benches.  
+
+
+## Some of the Test Results
+
+### Test 1
+#### Assembly Code and Generated Machine Code:
+![test1](images/test1.jpg)
+  
+#### Registers:
+![test1](images/registers1.jpg)
+  
+#### Data Memory:
+![test1](images/memory1.jpg)
+  
+#### Waveform:
+![test1](images/ww1_1.jpg)  
+![test1](images/ww1_2.jpg)
+![test1](images/ww1_3.jpg)
+![test1](images/ww1_4.jpg)
+![test1](images/ww1_5.jpg)
+![test1](images/ww1_6.jpg)
+
